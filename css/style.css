@@ -35,3 +35,16 @@ h1{
 figure {
 padding-top: 18px;
 }
+
+figcaption{
+    font-size: small;
+}
+
+mark{
+    background-color: #FEFF05;
+}
+
+.testi{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
