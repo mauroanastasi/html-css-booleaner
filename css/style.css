@@ -17,3 +17,21 @@
     padding-left: 5px;
     padding-bottom: 5px;
 }
+
+h1{
+    padding-top: 20px;
+}
+
+#address {
+    text-decoration: none;
+    color: #66B2D2;
+    font-style: normal;
+}
+
+.data{
+    font-size: small;
+}
+
+figure {
+padding-top: 18px;
+}
