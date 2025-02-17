@@ -3,3 +3,17 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.headerxlogo{
+    height: 110px;
+    background-color: #4587D4;
+    background-image: url(../img/pattern.png);
+    background-size: 29%;
+}
+
+.logo{
+    width:170px ;
+    height:170px ;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
