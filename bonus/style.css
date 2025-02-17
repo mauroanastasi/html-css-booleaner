@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} 
+
+.container {
+    max-width: 1050px;
+    margin: 0 auto;
+}
+
+.headerxlogo{
+    height: 110px;
+    background-color: #4587D4;
+    background-image: url(../img/pattern.png);
+    background-size: 29%;
+}
+
+.logo{
+    width:170px ;
+    height:170px ;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+
+h1{
+    padding-top: 20px;
+}
+
+#address {
+    text-decoration: none;
+    color: #66B2D2;
+    font-style: normal;
+}
+
+.data{
+    font-size: small;
+}
+
+figure {
+padding-top: 18px;
+}
+
+figcaption{
+    font-size: small;
+}
+
+mark{
+    background-color: #FEFF05;
+}
+
+.listapuntata{
+    padding-inline-start: 0;
+    list-style-position: inside;
+}
+
+.testi{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.tab{
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+li {
+    list-style-type: circle;
+ }
+
+h3{
+    color: gray;
+}
+
+.pubblicità1 {
+    background-image: url(../img/monitor.jpg);
+    height: 205px;
+    width: 269px;
+    margin-bottom: 15px;
+    
+}
+
+.pubblicità2{
+    background-image: url(../img/graph.jpg);
+    height: 205px;
+    width: 269px
+}
+
+span{
+    font-size: larger;
+    margin-top: 10px;
+    position: absolute;
+    padding-left: 10px;
+    color:#FFE2FF ;
+    
+}
+
+#primatab {
+    background-color: #24A8E2;
+    text-align: left;
+
+}
+
+.azzurrotab {
+    background-color: #B1E6F2
+    ;
+}
+
+#senzabordi {
+    border-collapse: collapse;
+}
+
+h3{
+    padding-top: 20px;
+}
+}
