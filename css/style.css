@@ -62,7 +62,20 @@ h3{
     color: gray;
 }
 
-.pubblicità {
-    display:block;
-    padding-bottom: 10px;
+.pubblicità1 {
+    background-image: url(../img/monitor.jpg);
+    height: 205px;
+    width: 269px;
+    margin-bottom: 15px;
+    
+}
+
+.pubblicità2{
+    background-image: url(../img/graph.jpg);
+    height: 205px;
+    width: 269px
+}
+
+span{
+    
 }
