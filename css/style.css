@@ -67,7 +67,6 @@ h3{
     height: 205px;
     width: 269px;
     margin-bottom: 15px;
-    background-position: cover;
     
 }
 
@@ -84,4 +83,19 @@ span{
     padding-left: 10px;
     color:#FFE2FF ;
     
+}
+
+#primatab {
+    background-color: #24A8E2;
+    text-align: left;
+
+}
+
+.azzurrotab {
+    background-color: #B1E6F2
+    ;
+}
+
+#senzabordi {
+    border-collapse: collapse;
 }
