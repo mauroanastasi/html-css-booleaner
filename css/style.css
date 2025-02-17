@@ -57,3 +57,12 @@ mark{
 li {
     list-style-type: circle;
  }
+
+h3{
+    color: gray;
+}
+
+.pubblicità {
+    display:block;
+    padding-bottom: 10px;
+}
