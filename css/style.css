@@ -1,8 +1,8 @@
-*{
+/* *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-}
+} */
 
 .headerxlogo{
     height: 110px;
@@ -48,3 +48,12 @@ mark{
     padding-top: 15px;
     padding-bottom: 15px;
 }
+
+.tab{
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+li {
+    list-style-type: circle;
+ }
